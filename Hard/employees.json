@@ -10,5 +10,17 @@
         "name": "Jane Smith",
         "salary": 60000,
         "department": "HR"
+    },
+    {
+        "employeeID": 3,
+        "name": "Nicole Calihua",
+        "salary": 70000,
+        "department": "HR"
+    },
+    {
+        "employeeID": 4,
+        "name": "Felicia Brown",
+        "salary": 70000,
+        "department": "HR"
     }
 ]
