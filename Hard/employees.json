@@ -22,5 +22,41 @@
         "name": "Felicia Brown",
         "salary": 70000,
         "department": "HR"
+    },
+    {
+        "employeeID": 5,
+        "name": "Ben white",
+        "salary": 80000,
+        "department": "Finance"
+    },
+    {
+        "employeeID": 6,
+        "name": "Derek Jeter",
+        "salary": 70000,
+        "department": "HR"
+    },
+    {
+        "employeeID": 7,
+        "name": "Jerry Dinh",
+        "salary": 70000,
+        "department": "HR"
+    },
+    {
+        "employeeID": 8,
+        "name": "Keith Quick",
+        "salary": 70000,
+        "department": "IT"
+    },
+    {
+        "employeeID": 9,
+        "name": "Wilmer Brown",
+        "salary": 70000,
+        "department": "HR"
+    },
+    {
+        "employeeID": 10,
+        "name": "Jordan Jester",
+        "salary": 70000,
+        "department": "HR"
     }
 ]
